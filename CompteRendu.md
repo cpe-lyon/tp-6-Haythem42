@@ -61,4 +61,6 @@ Vérification sur le site https://subnettingpractice.com/vlsm.html.
 
 ## Exercice 2. Préparation de l'environnement
 
-2.
+1. Sur VSphere :
+Pour le client : "Modifier les paramètres" -> "Adapteur réseau 1" parcourir et prendre "ICS_E5_2005" -> "OK"
+Pour le serveur : "Modifier les paramètres" -> "Ajouter un périphérique" sélectionner "Adapteur réseau" -> "Adapteur réseau 2" parcourir et prendre "ICS_E5_2005" -> "OK"
